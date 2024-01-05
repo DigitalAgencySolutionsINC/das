@@ -19,7 +19,7 @@ const Footer = () => {
             </h2>
           </div>
           <div>
-            <a href='tel:+917906514988'>
+            <a href='tel:+tba'>
               <button className='primary-btn shadow-lg'>Call us Now</button>
             </a>
           </div>
@@ -110,7 +110,7 @@ const Footer = () => {
                     className='text-sm text-white text-bold flex items-center justify-center md:justify-start gap-2'
                     href='tel:1234567890'
                   >
-                    <FaPhoneSquareAlt /> +91-1234567890
+                    <FaPhoneSquareAlt /> +tba
                   </a>
                 </li>
                 <li className='my-2 text-slate-200 hover:text-white transition-all duration-300'>
@@ -165,7 +165,8 @@ const Footer = () => {
 
       <div className='text-center py-6 mt-4 md:mt-8 lg:mt-12 mb-[4.5rem] md:mb-0'>
         <p className='text-sm text-slate-200 hover:text-white transition-all duration-300'>
-          © Copyright <a href='#'>WebDev.com</a> 2022. All rights reserved.
+          © Copyright <a href='#'>digitalagencysolutionsinc.com</a> 2024. All
+          rights reserved.
         </p>
       </div>
 
