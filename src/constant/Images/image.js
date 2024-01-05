@@ -1,5 +1,5 @@
-import logo from '../../assets/logo/logo.png';
-import logo2 from '../../assets/logo/logo2.png';
+import logo from '../../assets/logo/logo1side2.webp';
+import logo2 from '../../assets/logo/logo1side2.webp';
 import portfolio1 from '../../assets/portfolio/Portfolio1.jpg';
 import portfolio2 from '../../assets/portfolio/Portfolio2.jpg';
 import portfolio3 from '../../assets/portfolio/Portfolio3.jpg';
